@@ -3,7 +3,7 @@
 This REAME is divided into two parts to provide instruction on how to run the script for each task, and provide our results.
 
 ## Run Instructions
-### Task 1
+### Task 1: Unknown object detection and distance estimation.  
 Get the distance of the robot from the object:
 ```bash
 python3 task1.py 1
@@ -13,11 +13,11 @@ Go to the object:
 python3 task1.py 2
 ```
 
-### Task 2
+### Task 2: Unknown object avoidance 
 ```bash
 python3 task2.py
 ```
-### Task 3
+### Task 3: Unknow object search 
 ```bash
 python3 task3.py
 ```
