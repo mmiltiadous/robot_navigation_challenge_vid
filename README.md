@@ -17,7 +17,7 @@ python3 task1.py 2
 ```bash
 python3 task2.py
 ```
-### Task 3: Unknow object search 
+### Task 3: Unknown object search 
 ```bash
 python3 task3.py
 ```
